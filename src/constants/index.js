@@ -65,7 +65,10 @@ const skills = [
       "C", 
       "C#", 
       "C++",
-      "Dart"
+      "Dart",
+      "HTML",
+      "CSS",
+      "TypeScript"
     ]
   },
   {
