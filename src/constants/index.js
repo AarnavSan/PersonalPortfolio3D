@@ -249,6 +249,37 @@ const projects = [
     more_images: [],
     source_code_link: "https://github.com/",
   },
+  {
+    name: "AutoToller",
+    description:
+      "AutoToller is an IoT infrastructure that uses license plate detection to detect number plates and automatically deduct tolls using an IoT device at the tolling booths.",
+    tags: [
+      {
+        name: "NodeMCU",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "C",
+        color: "green-text-gradient",
+      },
+      {
+        name: "IoT",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "ExpressJS",
+        color: "orange-text-gradient",
+      },
+      {
+        name: "MongoDB_Atlas",
+        color: "yellow-text-gradient",
+      },
+    ],
+    image: hmanadventures,
+    extra_desc: "GreetAR is an AR greeting card made to be a special gifting option for your loved ones. Greeting cards are one of the most commonly gifted options during birthdays and special occasions. Adding a more personalized touch to it using 3D models and animated options is a good way to add a unique twist on it. I originally came up with the idea for a friend’s birthday. I made 3D models and animations using Blender and Unity and used the Vuforia plugin for adding Augmented Reality quickly. I created the animations and models to show some of our memories and inside jokes. For a more general purpose application, I added Fireworks using Visual Effects Graph and 3D text from Blender to wish someone a birthday. I am currently planning and researching on adding more customisation options and maybe a website to create similar Greeting Card experiences, where I can let the users choose 3D options and the texts on the Greeting Card. I used Unity for the 3D development engineer, Vuforia Plugin for quickly adding Image Target based Augmented Reality and Blender for making 3D models for the application. The Greeting Card was designed in Canva.",
+    more_images: [],
+    source_code_link: "https://github.com/",
+  },
 ];
 
 export { skills, technologies, experiences, projects };
