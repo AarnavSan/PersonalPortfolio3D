@@ -26,25 +26,25 @@ import eyantra from "./company/eyantra.png";
 import evolutionco from "./company/evolutionco.png";
 
 //AutoToller
-import autoteller_setup from "./projects/AutoToller/AutoToller_Setup.jpg"
-import at_render_cloud from "./projects/AutoToller/RenderServerHosting.jpg"
-import at_mongo_dashboard from "./projects/AutoToller/MongoDashboard.png"
-import at_mongo_storage from "./projects/AutoToller/MongoStorage.png"
+import autoteller_setup from "./projects/auto_toller/auto_toller_setup.jpg"
+import at_render_cloud from "./projects/auto_toller/render_server_hosting.jpg"
+import at_mongo_dashboard from "./projects/auto_toller/mongo_dashboard.png"
+import at_mongo_storage from "./projects/auto_toller/mongo_storage.png"
 
 //GreetAR
-import greetAR from "./projects/GreetAR/Greet_AR.jpg"
-import greetAR1 from "./projects/GreetAR/GreetAR1.jpg"
-import greetAR2 from "./projects/GreetAR/GreetAR2.jpg"
-import greetAR3 from "./projects/GreetAR/GreetAR_Showcase.png"
+import greetAR from "./projects/greet_ar/greet_ar_show1.jpg"
+import greetAR1 from "./projects/greet_ar/greet_ar1.jpg"
+import greetAR2 from "./projects/greet_ar/greet_ar2.jpg"
+import greetAR3 from "./projects/greet_ar/greet_ar_show.png"
 
 //hmanadventures images
-import hmanadventures  from "./projects/HmanAdventures/HmanAdventuresInGame.png"
-import hmanadventures1 from "./projects/HmanAdventures/HmanAdventuresInGame.png"
-import hmanadventures2 from "./projects/HmanAdventures/HmanAdventuresInGame2.png"
-import hmanadventures3 from "./projects/HmanAdventures/HmanAdventuresInGame3.png"
-import hmanadventures4 from "./projects/HmanAdventures/HmanAdventuresInGame4.png"
-import hmanadventures5 from "./projects/HmanAdventures/HmanAdventuresInGame5.png"
-import hmanadventures6 from "./projects/HmanAdventures/HmanAdventuresInGame6.png"
+import hmanadventures  from "./projects/hman_adv/hman_adv.png.png"
+import hmanadventures1 from "./projects/hman_adv/hman_adv_ingame.png"
+import hmanadventures2 from "./projects/hman_adv/hman_adv_ingame2.png"
+import hmanadventures3 from "./projects/hman_adv/hman_adv_ingame3.png"
+import hmanadventures4 from "./projects/hman_adv/hman_adv_ingame4.png"
+import hmanadventures5 from "./projects/hman_adv/hman_adv_ingame5.png"
+import hmanadventures6 from "./projects/hman_adv/hman_adv_ingame6.png"
 
 import jelloTapeIcon from "./JelloTapepfp.png"
 
