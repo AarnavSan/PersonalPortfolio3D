@@ -38,8 +38,7 @@ import greetAR2 from "./projects/GreetAR/GreetAR2.jpg"
 import greetAR3 from "./projects/GreetAR/GreetAR_Showcase.png"
 
 //hmanadventures images
-const hmanadventures = require("./projects/HmanAdventures/HmanAdventuresInGame.png");
-
+import hmanadventures  from "./projects/HmanAdventures/HmanAdventuresInGame.png"
 import hmanadventures1 from "./projects/HmanAdventures/HmanAdventuresInGame.png"
 import hmanadventures2 from "./projects/HmanAdventures/HmanAdventuresInGame2.png"
 import hmanadventures3 from "./projects/HmanAdventures/HmanAdventuresInGame3.png"

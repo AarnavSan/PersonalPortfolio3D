@@ -1,4 +1,3 @@
-// ProjectPopup.js
 import React from "react";
 import { useState, useEffect } from "react";
 import { motion } from "framer-motion";
