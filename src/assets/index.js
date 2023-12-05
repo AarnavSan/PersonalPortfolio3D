@@ -37,7 +37,6 @@ import greetAR1 from "./projects/GreetAR/GreetAR1.jpg"
 import greetAR2 from "./projects/GreetAR/GreetAR2.jpg"
 import greetAR3 from "./projects/GreetAR/GreetAR_Showcase.png"
 
-
 //hmanadventures images
 import hmanadventures from "./projects/HmanAdventures/HmanAdventures.png"
 import hmanadventures1 from "./projects/HmanAdventures/HmanAdventuresInGame.png"
