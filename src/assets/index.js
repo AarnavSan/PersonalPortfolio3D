@@ -32,10 +32,10 @@ import at_mongo_dashboard from "./projects/auto_toller/mongo_dashboard.png"
 import at_mongo_storage from "./projects/auto_toller/mongo_storage.png"
 
 //GreetAR
-import greetAR from "./projects/greet_ar/greet_ar_show1.jpg"
+import greetAR from "./projects/greet_ar/greet_ar_show1.png"
 import greetAR1 from "./projects/greet_ar/greet_ar1.jpg"
 import greetAR2 from "./projects/greet_ar/greet_ar2.jpg"
-import greetAR3 from "./projects/greet_ar/greet_ar_show.png"
+import greetAR3 from "./projects/greet_ar/greet_ar_show.jpg"
 
 //hmanadventures images
 import hmanadventures  from "./projects/hman_adv/hman_adv.png.png"
