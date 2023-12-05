@@ -25,7 +25,27 @@ import threejs from "./tech/threejs.svg";
 import eyantra from "./company/eyantra.png";
 import evolutionco from "./company/evolutionco.png";
 
+//AutoToller
+import autoteller_setup from "./projects/AutoToller/AutoToller_Setup.jpg"
+import at_render_cloud from "./projects/AutoToller/RenderServerHosting.jpg"
+import at_mongo_dashboard from "./projects/AutoToller/MongoDashboard.png"
+import at_mongo_storage from "./projects/AutoToller/MongoStorage.png"
+
+//GreetAR
+import greetAR from "./projects/GreetAR/Greet_AR.jpg"
+import greetAR1 from "./projects/GreetAR/GreetAR1.jpg"
+import greetAR2 from "./projects/GreetAR/GreetAR2.jpg"
+import greetAR3 from "./projects/GreetAR/GreetAR_Showcase.png"
+
+
+//hmanadventures images
 import hmanadventures from "./projects/HmanAdventures/HmanAdventures.png"
+import hmanadventures1 from "./projects/HmanAdventures/HmanAdventuresInGame.png"
+import hmanadventures2 from "./projects/HmanAdventures/HmanAdventuresInGame2.png"
+import hmanadventures3 from "./projects/HmanAdventures/HmanAdventuresInGame3.png"
+import hmanadventures4 from "./projects/HmanAdventures/HmanAdventuresInGame4.png"
+import hmanadventures5 from "./projects/HmanAdventures/HmanAdventuresInGame5.png"
+import hmanadventures6 from "./projects/HmanAdventures/HmanAdventuresInGame6.png"
 
 import jelloTapeIcon from "./JelloTapepfp.png"
 
@@ -56,4 +76,18 @@ export {
   eyantra,
   evolutionco,
   hmanadventures,
+  hmanadventures1,
+  hmanadventures2,
+  hmanadventures3,
+  hmanadventures4,
+  hmanadventures5,
+  hmanadventures6,
+  autoteller_setup,
+  at_render_cloud,
+  at_mongo_dashboard,
+  at_mongo_storage,
+  greetAR,
+  greetAR1,
+  greetAR2,
+  greetAR3
 };
