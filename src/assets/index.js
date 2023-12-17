@@ -37,6 +37,20 @@ import greetAR1 from "./projects/greet_ar/greet_ar1.jpg"
 import greetAR2 from "./projects/greet_ar/greet_ar2.jpg"
 import greetAR3 from "./projects/greet_ar/greet_ar_show1.png"
 
+//ExploAR
+import exploAR_solar1 from "./projects/exploar/solar_system1.jpg"
+import exploAR_solar2 from "./projects/exploar/solar_system2.jpg"
+import exploAR_solar3 from "./projects/exploar/solar_system3.jpg"
+
+import exploAR_projm1 from "./projects/exploar/proj_motion1.jpg"
+import exploAR_projm2 from "./projects/exploar/proj_motion2.jpg"
+import exploAR_projm3 from "./projects/exploar/proj_motion3.jpg"
+
+import exploAR_skele1 from "./projects/exploar/skele1.jpg"
+import exploAR_skele2 from "./projects/exploar/skele1.jpg"
+import exploAR_skele3 from "./projects/exploar/skele1.jpg"
+
+
 //hmanadventures images
 import hmanadventures  from "./projects/hman_adv/hman_adv.png"
 import hmanadventures1 from "./projects/hman_adv/hman_adv_ingame.png"
@@ -88,5 +102,14 @@ export {
   greetAR,
   greetAR1,
   greetAR2,
-  greetAR3
+  greetAR3,
+  exploAR_solar1,
+  exploAR_solar2,
+  exploAR_solar3,
+  exploAR_projm1,
+  exploAR_projm2,
+  exploAR_projm3,
+  exploAR_skele1,
+  exploAR_skele2,
+  exploAR_skele3
 };

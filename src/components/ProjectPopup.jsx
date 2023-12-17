@@ -39,7 +39,8 @@ function SliderCarousel({images}) {
                   src={image}
                   alt={`project-image-${index}`}
                   // className="object-cover"
-                  // width={10000}
+                  width={400}
+                  height = {200}
                 />
                 </button>
             </div>
@@ -54,7 +55,7 @@ function SliderCarousel({images}) {
                   src={image}
                   alt={`project-image-${index}`}
                   // className="object-cover"
-                  // width={10000}
+                   width={300}
                 />
                 </button>
             </div>

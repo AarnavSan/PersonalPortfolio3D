@@ -47,7 +47,6 @@ const Skills = () => {
   return (
     <>
       <motion.div variants={textVariant()}>
-        <p className={styles.sectionSubText}>What have I learned?</p>
         <h2 className={styles.sectionHeadText}>My Skills.</h2>
       </motion.div>
       <motion.p

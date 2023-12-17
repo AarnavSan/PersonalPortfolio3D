@@ -32,6 +32,15 @@ import {
   greetAR1,
   greetAR2,
   greetAR3,
+  exploAR_solar1,
+  exploAR_solar2,
+  exploAR_solar3,
+  exploAR_projm1,
+  exploAR_projm2,
+  exploAR_projm3,
+  exploAR_skele1,
+  exploAR_skele2,
+  exploAR_skele3,
   threejs,
   
 } from "../assets";
@@ -50,9 +59,17 @@ export const navLinks = [
     title: "Work Experience",
   },
   {
-    id: "contact",
-    title: "Contact",
+    id: "projects",
+    title: "Projects",
   },
+  // {
+  //   id: "designs",
+  //   title: "Designs",
+  // },
+  // {
+  //   id: "contact",
+  //   title: "Contact",
+  // },
 ];
 
 const skills = [
@@ -233,7 +250,7 @@ const projects = [
       at_render_cloud,
       at_mongo_dashboard,
       at_mongo_storage,],
-    source_code_link: "https://github.com/",
+    //source_code_link: "https://github.com/",
   },
   {
     name: "ExploAR",
@@ -257,10 +274,18 @@ const projects = [
         color: "orange-text-gradient",
       },
     ],
-    image: hmanadventures,
+    image: exploAR_solar3,
     extra_desc:["ExploAR is a work-in-progress AR Education Application that teaches concepts in Augmented Reality. It visualizes the concepts with animations, 3D models and interactions and runs on any android Phone that has ARCore supported"],
-    more_images: ["https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg", "https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg?size=626&ext=jpg&ga=GA1.1.1880011253.1699833600&semt=sph"],
-    source_code_link: "https://github.com/",
+    more_images: [exploAR_solar1,
+      exploAR_solar2,
+      exploAR_solar3,
+      exploAR_projm1,
+      exploAR_projm2,
+      exploAR_projm3,
+      exploAR_skele1,
+      exploAR_skele2,
+      exploAR_skele3,],
+    //source_code_link: "https://github.com/",
   },
   {
     name: "GreetAR - AR Greeting Card",
@@ -291,8 +316,8 @@ const projects = [
     "I am currently planning and researching on adding more customisation options and maybe a website to create similar Greeting Card experiences, where I can let the users choose 3D options and the texts on the Greeting Card.",
     "I used <b>Unity</b> for the 3D development engineer, Vuforia Plugin for quickly adding Image Target based Augmented Reality and Blender for making 3D models for the application. The Greeting Card was designed in Canva."
   ],
-    more_images: [greetAR1, greetAR2, greetAR3],
-    source_code_link: "https://github.com/",
+    more_images: [greetAR, greetAR1, greetAR2, greetAR3],
+    //source_code_link: "https://github.com/",
   },
   {
     name: "H-man Adventures",
@@ -316,12 +341,12 @@ const projects = [
       hmanadventures4,
       hmanadventures5,
       hmanadventures6],
-    extra_desc: ["H-Man’s Adventure is a 2D Platformer made in Unity3D. The game had pixel-art styled graphics. Pixel art was made using Pixilart. The player, character and item arts were custom made in pixilart.",
+    extra_desc: ["H-Man's Adventure is a 2D Platformer made in Unity3D. The game had pixel-art styled graphics. Pixel art was made using Pixilart. The player, character and item arts were custom made in pixilart.",
     "I used Unity Engine to design the game. The idea I had in mind was to give the player an end objective to get to and finish the level, but to do this they had to collect a specific item hidden in the level. This specific item would be away from the path the game directs you on, and takes some additional platforming to get to.",
     "This game was originally inspired by a birthday gift for a friend of mine, and then improved upon a little. As someone who loves to work with visual technologies and game development, I made this game as a sort of tribute to one of my closest friends, who helps us out a lot.",
     "The background and level sprites are taken from a <a style=\"color : blue;text-decoration:underline\" href=\"https://free-game-assets.itch.io/free-industrial-zone-tileset-pixel-art\">Free Industrial Zone Tileset pack by CraftPix</a> from itch.io. The beautiful background music is by <a style=\"color : blue;text-decoration:underline\" href=\"https://xdeviruchi.itch.io/8-bit-fantasy-adventure-music-pack\">xdeviruchi's 8-bit-fantasy-adventure-music-pack</a>."
   ],
-    source_code_link: "https://github.com/",
+    //source_code_link: "https://github.com/",
   },
 ];
 

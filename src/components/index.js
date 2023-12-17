@@ -5,7 +5,8 @@ import About from "./About";
 import Skills from "./Skills";
 import Tech from "./Tech";
 import Experience from "./Experience";
-import Works from "./Works";
+import Projects from "./Projects";
+import Designs from "./Designs";
 import Contact from "./Contact";
 import CanvasLoader from "./Loader";
 
@@ -17,7 +18,8 @@ export {
   Skills,
   Tech,
   Experience,
-  Works,
+  Projects,
+  Designs,
   Contact,
   CanvasLoader,
   EarthCanvas, 
