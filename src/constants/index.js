@@ -8,13 +8,11 @@ import {
   html,
   css,
   reactjs,
-  redux,
-  tailwind,
   nodejs,
   mongodb,
   git,
-  figma,
-  docker,
+  blender,
+  unity,
   eyantra,
   evolutionco,
   hmanadventures,
@@ -145,14 +143,6 @@ const technologies = [
     icon: reactjs,
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
-  },
-  {
-    name: "Tailwind CSS",
-    icon: tailwind,
-  },
-  {
     name: "Node JS",
     icon: nodejs,
   },
@@ -169,13 +159,13 @@ const technologies = [
     icon: git,
   },
   {
-    name: "figma",
-    icon: figma,
+    name: "Blender",
+    icon: blender,
   },
   {
-    name: "docker",
-    icon: docker,
-  }
+    name: "Unity",
+    icon: unity,
+  },
 ];
 
 const experiences = [

@@ -21,6 +21,8 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import unity from "./tech/unity.png";
+import blender from "./tech/blender.png";
 
 import eyantra from "./company/eyantra.png";
 import evolutionco from "./company/evolutionco.png";
@@ -86,6 +88,8 @@ export {
   tailwind,
   typescript,
   threejs,
+  unity,
+  blender,
   eyantra,
   evolutionco,
   hmanadventures,
