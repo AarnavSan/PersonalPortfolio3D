@@ -12,6 +12,8 @@ import { experiences } from "../constants";
 import { SectionWrapper } from "../hoc";
 import { textVariant } from "../utils/motion";
 
+import parse from 'html-react-parser';
+
 const ExperienceCard = ({ experience }) => {
   return (
     <VerticalTimelineElement
@@ -48,7 +50,7 @@ const ExperienceCard = ({ experience }) => {
             key={`experience-point-${index}`}
             className='text-white-100 text-[14px] pl-1 tracking-wider'
           >
-            {point}
+            {parse("<div>" + point + "</div>")}
           </li>
         ))}
       </ul>
